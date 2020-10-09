@@ -44,7 +44,7 @@ html,body {
     display: fixed;    
 }
 
-.welcome-section {
+#welcome-section {
     background-color: rgb(245, 206, 35);
     display: flex;
     flex-direction: column;
@@ -208,7 +208,7 @@ section p {
 /* END PROJECT SECTION */
 
 /* START CONTACT SECTION */
-#Contact {
+#profile-link {
     margin: 0;
     padding: 0;
     height: auto;
